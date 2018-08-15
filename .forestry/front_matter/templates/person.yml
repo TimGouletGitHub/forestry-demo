@@ -36,3 +36,7 @@ fields:
   type: text
   hidden: true
   default: person
+- type: file
+  name: super_thumbnail
+  label: super thumbnail
+  description: super thumbnail tester
