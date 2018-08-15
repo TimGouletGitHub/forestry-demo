@@ -26,6 +26,10 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: file
+  name: super_thumbnail
+  label: super thumbnail
+  description: super thumbnail tester
 - name: linkedin
   label: Linkedin
   type: text
@@ -36,7 +40,3 @@ fields:
   type: text
   hidden: true
   default: person
-- type: file
-  name: super_thumbnail
-  label: super thumbnail
-  description: super thumbnail tester
